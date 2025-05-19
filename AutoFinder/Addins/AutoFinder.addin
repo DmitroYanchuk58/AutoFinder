@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>FindModelInPlace</Name>
+		<Assembly>E:\Code\VisualStudio\C#\REVIT\AutoFinder\AutoFinder\bin\Debug\AutoFinder.dll</Assembly>
+		<AddInId>6A9E2E1A-1982-43AE-BE63-B197C3A7B389</AddInId>
+		<FullClassName>AutoFinder.AutoFinderApp</FullClassName>
+		<VendorId>Dmitro Yanchuk</VendorId>
+		<VendorDescription>Sample Add-In</VendorDescription>
+	</AddIn>
+</RevitAddIns>
